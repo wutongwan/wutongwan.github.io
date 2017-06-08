@@ -1,3 +1,3 @@
-# 蛋壳公寓开源项目
+## [Laravel Lego](/wutongwan/laravel-lego)
 
-- [Laravel Lego](/wutongwan/laravel-lego)，Save you from CRUD
+Laravel CRUD widgets, Save you from CRUD.
